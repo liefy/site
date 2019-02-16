@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Welcome to Alessandra's page!
+github:
+  is_project_page: false
